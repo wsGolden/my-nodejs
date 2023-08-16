@@ -1,0 +1,16 @@
+{
+  "name": "my-node",
+  "version": "1.0.0",
+  "description": "nodestudy",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "wangshuo",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^5.1.1"
+  }
+}
